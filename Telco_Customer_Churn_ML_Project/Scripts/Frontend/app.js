@@ -1,5 +1,6 @@
 // FastAPI Backend URL
-const API_URL = "https://telco-customer-churn-ai.onrender.com";
+
+const API_URL = "https://telco-customer-churn-ai.onrender.com/predict";
 
 // Elements
 const form = document.getElementById("predictionForm");
